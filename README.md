@@ -1,16 +1,15 @@
-## Hi there 👋
+# Daniel Pinzón
 
-<!--
-**Dpinz412/Dpinz412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Analytics → Data Science.** 6+ years in finance/ops; MS in Business Analytics at GWU.  
+Python (pandas, scikit-learn), SQL, R, Excel; AWS (foundational).  
+I build automation, forecasting, and decision-support tools.
 
-Here are some ideas to get you started:
+## 🔧 Pinned Work
+- **Bikeshare Forecast (DC)** — EDA + ML baseline → feature engineering → model comparison.  
+  `pandas`, `scikit-learn`, reproducible notebooks.
+- **LinkedIn Job Market Analysis** — Clean/aggregate large postings; skill & location trends; charts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/danielpinzongaleano/) • [Email](mailto:d.pinzon412@gmail.com)
+
+> Portfolio: github.com/Dpinz412  •  Location: Washington, DC
