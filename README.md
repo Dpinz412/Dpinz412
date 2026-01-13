@@ -1,4 +1,4 @@
-# Daniel Pinzón
+# Daniel Pinzon
 
 **Data & Analytics → Data Science.** 6+ years in finance/ops; MS in Business Analytics at GWU.  
 Python (pandas, scikit-learn), SQL, R, Excel; AWS (foundational).  
