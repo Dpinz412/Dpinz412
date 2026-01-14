@@ -11,5 +11,5 @@ I build automation, forecasting, and decision-support tools.
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/danielpinzongaleano/) • [Email](mailto:d.pinzon412@gmail.com)
 
-> Webpage: [github.com/Dpinz412](https://dpinz412.github.io/)  •  Location: Washington, DC 
+> Webpage: https://dpinz412.github.io/ •  Location: Washington, DC 
 
